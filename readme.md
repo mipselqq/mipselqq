@@ -12,7 +12,7 @@ In my work, I prioritize **Clean code**, **Maintainability**, **Testability**, *
 
 ### Core Stack
 
-<img src="https://img.shields.io/badge/Go-007D9C?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-2A527A?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-1D78BE?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-B03B25?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-1A6CCC?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-F7DF1E?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Go-007D9C?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-2A527A?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-1D78BE?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-B03B25?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-1A6CCC?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-F7DF1E?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Prometheus-B84223?style=for-the-badge&logo=prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-C45300?style=for-the-badge&logo=grafana&logoColor=white" />
 
 ### Proficient With
 
@@ -20,7 +20,7 @@ In my work, I prioritize **Clean code**, **Maintainability**, **Testability**, *
 
 ### Learning Goals
 
-<img src="https://img.shields.io/badge/Redis-B02D24?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Prometheus-B84223?style=for-the-badge&logo=prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-C45300?style=for-the-badge&logo=grafana&logoColor=white" /> <img src="https://img.shields.io/badge/gRPC-356AC2?style=for-the-badge&logo=grpc&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-B02D24?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/gRPC-356AC2?style=for-the-badge&logo=grpc&logoColor=white" />
 
 ### Previously Used
 
