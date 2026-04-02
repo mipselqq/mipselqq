@@ -13,6 +13,3 @@ In my work, I prioritize **Clean code**, **Maintainability**, **Testability**, *
 | **Learning Goals** | <img src="https://img.shields.io/badge/Redis-B02D24?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/gRPC-356AC2?style=for-the-badge&logo=grpc&logoColor=white" /> |
 | **Previously Used** | <img src="https://img.shields.io/badge/TSQL-A3211F?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-1C741A?style=for-the-badge&logo=csharp&logoColor=white" /> |
 | **Workspace & Tools** | <img src="https://img.shields.io/badge/VS_Code-0062A3?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Arch_Linux-1275A7?style=for-the-badge&logo=archlinux&logoColor=white" /> <img src="https://img.shields.io/badge/Fish_Shell-333D40?style=for-the-badge&logo=fishshell&logoColor=white" /> <img src="https://img.shields.io/badge/Kitty-000000?style=for-the-badge&logo=kitty&logoColor=white" /> <img src="https://img.shields.io/badge/Firefox-CC5A2E?style=for-the-badge&logo=firefoxbrowser&logoColor=white" /> <img src="https://img.shields.io/badge/Kool_Desktop_Environment-165B8C?style=for-the-badge&logo=kde&logoColor=white" /> |
-
-
-jkasdhflkajhflkahsdkf
