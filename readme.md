@@ -6,7 +6,7 @@ In my work, I prioritize:
 - **Maintainability** (YAGNI, KISS, readable and writable code, balanced architecture) to iterate quickly.
 - **Testability** (high coverage, reliable cases) to avoid the human factor, prevent regressions, and save time on manual testing.
 - **Observability** (logging, remote access to logs and metrics) to figure out incidents as soon as possible.
-- **Security** (validation, pentesting) to make code rock solid.
+- **Security** (validation, pentesting, static analysis) to make code rock solid.
 - **Critical AI-assisted development** (strict reviews of AI-generated code with full understanding).
 
 ## Tech Stack
