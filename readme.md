@@ -33,7 +33,7 @@ Also, I found several critical vulnerabilities in a real [production app](https:
 - Found payment webhook hash check issues.
 - Found a full internal API map from different sources.
 - Found missing proxy auth & no subscription checks.
-
+- Pointed out several flaws that can be abused.
 <details>
   <summary>And they even gave me a small reward! (click)</summary>
   <img width="400"" alt="image" src="https://github.com/user-attachments/assets/d794cb8e-3e31-4bb6-b2d7-4688ab2feb9a" />
